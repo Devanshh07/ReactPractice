@@ -32,6 +32,12 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
+button{
+  margin: 10px;
+}
+#container{
+  margin-top: 150px;
+}
 
 h1 {
   font-size: 3.2em;
